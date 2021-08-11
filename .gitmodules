@@ -1,9 +1,0 @@
-[submodule "mycpu_verify"]
-	path = mycpu_verify
-	url = ./cebarobot/UCAS-CALab-mycpu_verify
-[submodule "mycpu_sram_verify"]
-	path = mycpu_sram_verify
-	url = ./cebarobot/UCAS-CALab-mycpu_sram_verify
-[submodule "mycpu_axi_verify"]
-	path = mycpu_axi_verify
-	url = ./cebarobot/UCAS-CALab-mycpu_axi_verify
